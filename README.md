@@ -25,7 +25,7 @@
 Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 :-----|:-------------|:-------------:|:----------:|:-------------------|
 1.| MyFitness---Website | [view](https://irfan-mazhar.github.io/MyFitness---Website/) | [view](https://github.com/Irfan-Mazhar/MyFitness---Website)  | `HTML`  `CSS` |
-2.| TicTacToe-with-Python | [view]() | [view](https://github.com/Irfan-Mazhar/TicTacToe-with-Python)  | `Python3` |
+2.| TicTacToe-with-Python | - | [view](https://github.com/Irfan-Mazhar/TicTacToe-with-Python)  | `Python3` |
 3.| CalcPro---Simple-Calculator | [view](https://irfan-mazhar.github.io/CalcPro---Simple-Calculator/) | [view](https://github.com/Irfan-Mazhar/CalcPro---Simple-Calculator)  | `HTML` `CSS` `Javascript` |
 
 
