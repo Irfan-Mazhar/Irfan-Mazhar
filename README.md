@@ -28,6 +28,7 @@ Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 2.| TicTacToe-with-Python | - | [view](https://github.com/Irfan-Mazhar/TicTacToe-with-Python)  | `Python3` |
 3.| CalcPro---Simple-Calculator | [view](https://irfan-mazhar.github.io/CalcPro---Simple-Calculator/) | [view](https://github.com/Irfan-Mazhar/CalcPro---Simple-Calculator)  | `HTML` `CSS` `Javascript` |
 4.| To-Do-List | [view](https://to-do-list-orcin-two-85.vercel.app/) | [view](https://github.com/Irfan-Mazhar/To-Do-List) | `HTML` `CSS` `Javascript` |
+5.| Movie-Mahal | [view](https://movie-mahal.vercel.app/) | [view](https://github.com/Irfan-Mazhar/Movie-Mahal) | `React.js` `CSS` |
 
 
 
