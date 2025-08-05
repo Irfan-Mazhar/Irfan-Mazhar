@@ -29,6 +29,7 @@ Sl No.| Project Name | Deployed Link | Repository | Tech Stack & Tools |
 3.| CalcPro---Simple-Calculator | [view](https://irfan-mazhar.github.io/CalcPro---Simple-Calculator/) | [view](https://github.com/Irfan-Mazhar/CalcPro---Simple-Calculator)  | `HTML` `CSS` `Javascript` |
 4.| To-Do-List | [view](https://to-do-list-orcin-two-85.vercel.app/) | [view](https://github.com/Irfan-Mazhar/To-Do-List) | `HTML` `CSS` `Javascript` |
 5.| Movie-Mahal | [view](https://movie-mahal.vercel.app/) | [view](https://github.com/Irfan-Mazhar/Movie-Mahal) | `React.js` `CSS` |
+6.| Speed-Typing-Test | [view](https://speed-typing-test-9byl.vercel.app/) | [view](https://github.com/Irfan-Mazhar/Speed-Typing-Test) | `React.js` `Tailwindcss` |
 
 
 
